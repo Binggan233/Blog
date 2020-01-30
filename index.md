@@ -4,7 +4,7 @@
 
 Welcome to Binggan's Blog. It doesn't matter if you don't konw me, my self-introduction is below.
 
-### 饼干是谁啊！
+### 人设：饼干
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
