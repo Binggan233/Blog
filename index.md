@@ -1,6 +1,6 @@
 ## 饼干的 个人博客
 
-欢迎你的到来！这里是饼干的个人博客，如果你不认识我也没有关系，下面有我的自——我——介——绍——
+欢迎你的到来！这里是饼干的个人博客，如果你不认识我也没有关系，下面有我的自——我——介——绍
 
 Welcome to Binggan's Blog. It doesn't matter if you don't konw me, my self-introduction is below.
 
