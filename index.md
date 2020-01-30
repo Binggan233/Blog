@@ -1,8 +1,8 @@
 ## 饼干的 个人博客
 
-You can use the [editor on GitHub](https://github.com/Binggan233/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎你的到来！这里是饼干的个人博客，如果你不认识我也没有关系，下面有我的自——我——介——绍——
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to Binggan's Blog. It doesn't matter if you don't konw me, my self-introduction is below.
 
 ### Markdown
 
