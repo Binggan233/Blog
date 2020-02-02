@@ -4,6 +4,17 @@
 
 Welcome to Binggan's Blog. It doesn't matter if you don't konw me, my self-introduction is below.
 
+### 公告
+这是饼干的临时博客网站，新的网站正在搭建中，请稍等。
+
+### 常用SNS与非常用SNS
+AcFun：饼干干1314
+<a url="https://space.bilibili.com/57763685">Bilibili：走路带风的饼干</a>
+微博：饼干Bing_Gan
+Github: Binggan233
+Missevan: 饼干Kekse
+5Sing：饼干Kekse
+
 ### 人设：饼干          
 My name:Binggan('biscuit' in eng, 'kekse' in german)
 
@@ -16,17 +27,3 @@ binggan sighs that Life is not easy, perhaps you seldom find my appearences, but
 I love ACGN （にじげん）， sometimes I play galgame. Though I am a Boy, I prefer Girl's Love. But it doesn't mean my sexuality is homosexuality.
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Binggan233/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
