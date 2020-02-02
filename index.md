@@ -8,12 +8,24 @@ Welcome to Binggan's Blog. It doesn't matter if you don't konw me, my self-intro
 这是饼干的临时博客网站，新的网站正在搭建中，请稍等。
 
 ### 常用SNS与非常用SNS
-<a href="https://www.acfun.cn/u/13489702.aspx">AcFun：饼干干1314</a>
+<div>
+ <a href="https://www.acfun.cn/u/13489702.aspx">AcFun：饼干干1314</a>
+</div>
+  <div>
 <a href="https://space.bilibili.com/57763685">Bilibili：走路带风的饼干</a>
+  </div>
+  <div>
 <a href="https://weibo.com/6012935166/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1#1580633780610">微博：饼干Bing_Gan</a>
+  </div>
+  <div>
 <a href="https://www.missevan.com/8304809/">Missevan: 饼干Kekse</a>
+  </div>
+  <div>
 <a href="http://5sing.kugou.com/72871824">5Sing：饼干Kekse</a>
+  </div>
+  <div>
 <a href="https://bcy.net/u/101145009372">半次元：饼干干owo</a>
+  </div>
 
 ### 人设：饼干          
 My name:Binggan('biscuit' in eng, 'kekse' in german)
