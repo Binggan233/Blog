@@ -9,7 +9,7 @@ Welcome to Binggan's Blog. It doesn't matter if you don't konw me, my self-intro
 
 ### 常用SNS与非常用SNS
 AcFun：饼干干1314
-<a url="https://space.bilibili.com/57763685">Bilibili：走路带风的饼干</a>
+<a href="https://space.bilibili.com/57763685">Bilibili：走路带风的饼干</a>
 微博：饼干Bing_Gan
 Github: Binggan233
 Missevan: 饼干Kekse
