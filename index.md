@@ -35,7 +35,7 @@ My name:Binggan('biscuit' in eng, 'kekse' in german)
 二次元宅，galgame什么的也玩，虽然是男孩子，但是喜欢橘里橘气的猛男番
 
 
-binggan sighs that Life is not easy, perhaps you seldom find my appearences, but there's one thing you need to know that I am not so secret. Now I am studying in Grade 9 in China. For games, I mainly play Minecraft, my PC JAVA edition is Binggan_owo
+binggan sighs that Life is not easy, perhaps you seldom find my appearences, but there's one thing you need to know that I am not so secret. Now I am studying in Grade 9 in China. For games, I mainly play Minecraft, my PC JAVA edition ID is Binggan_owo
 I love ACGN （にじげん）， sometimes I play galgame. Though I am a Boy, I prefer Girl's Love. But it doesn't mean my sexuality is homosexuality.
 
 
